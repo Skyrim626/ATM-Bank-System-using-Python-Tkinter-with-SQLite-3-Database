@@ -1,0 +1,64 @@
+Date registered: 2022-07-24
+Time: 11:36 PM
+First name: Johnny
+Last name: Sins
+Username: JohnnyHero
+Account number: 137491
+Password: 1432
+Zip code: 75900
+
+
+
+Date registered: 2022-07-25
+Time: 12:01 AM
+First name: Jezz
+Last name: Bezos
+Username: AmaZon
+Account number: 617380
+Password: 5183
+Zip code: 98174
+
+
+
+Date registered: 2022-07-25
+Time: 12:20 AM
+First name: Goya
+Last name: Choco
+Username: GoyaMe
+Account number: 836104
+Password: 8103
+Zip code: 94817
+
+
+
+Date registered: 2022-07-25
+Time: 12:21 AM
+First name: Peter
+Last name: Parker
+Username: IronJr
+Account number: 746902
+Password: 6410
+Zip code: 74910
+
+
+
+Date registered: 2022-07-25
+Time: 12:23 AM
+First name: Johnny
+Last name: Cash
+Username: JohnnyBoy
+Account number: 143822
+Password: 9481
+Zip code: 749103
+
+
+
+Date registered: 2022-07-27
+Time: 09:35 PM
+First name: Zin
+Last name: Sanchez
+Username: ZinKhala
+Account number: 792250
+Password: 3145
+Zip code: 9000
+
